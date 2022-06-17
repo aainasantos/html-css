@@ -26,5 +26,7 @@ p{
     background-color: blueviolet;
     height: 50%;
     width: 50%;
+    max-width: 75%;
+    min-width: 250px;
     
 }
