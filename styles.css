@@ -30,3 +30,9 @@ p{
     min-width: 250px;
     
 }
+
+@media (max-width : 720px){
+    .p{
+        font-size: clamp(.3rem, 1.5rem, 1rem);
+    }
+}
