@@ -32,7 +32,7 @@ p{
 }
 
 @media (max-width : 720px){
-    .another-div{
+    .div{
         width: 25vw;
     }
 }
