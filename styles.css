@@ -32,7 +32,7 @@ p{
 }
 
 @media (max-width : 720px){
-    .p{
-        font-size: clamp(.3rem, 1.5rem, 1rem);
+    .another-div{
+        width: 25vw;
     }
 }
